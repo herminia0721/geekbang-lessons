@@ -50,3 +50,4 @@ activemq-data/
 # Tomcat
 .extract
 .java-version
+.java
